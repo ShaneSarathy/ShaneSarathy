@@ -1,16 +1,20 @@
 ### Hi there 👋
- My name is Shane Sarathy
-<!--
-**ShaneSarathy/ShaneSarathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### My name is Shane Sarathy
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my GitHub profile aka this
-- 🌱 I’m currently learning Web Page Developement
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌠I am currently 19 years old 🌠
+
+🏀I am a basketball player and my favorite team is the 76ers⛹️‍♂️
+
+🏎️I am into cars and I have a Camaro SS myself🏎️
+
+📚I go to school at RVCC as a Freshman 📚
+
+🛹I work as a manager at Zumiez in the mall🛹
+
+🥊I love to watch UFC and Boxing🥊
+
+🖥️I have fun playing videogames like 2K and Apex Leends🎮
+
+📺I like watching Naruto, Rick and Morty🟢, and Family Guy📺
+
